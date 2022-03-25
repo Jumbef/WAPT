@@ -7,6 +7,12 @@ WAPT is a software deployment tool whose core set of features is licensed under 
 * Documentation : https://wapt.fr/en/doc/
 * Official git repo : https://github.com/tranquilit/WAPT
 
+This fork
+====
+
+This fork from WAPT is a attempt to free the community edition from Tranquil IT.
+The main goal is to update the code to python >= 3.8 while staying compatible with existant packages.
+
 Main features
 =============
 
@@ -40,4 +46,4 @@ For End-Users
 How to contribute?
 ==================
 
-You may want to have a look at our contribution guide: https://www.wapt.fr/en/doc/wapt-contribute/index.html
+Any help is welcome but I before need to establish project bases.
